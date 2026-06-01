@@ -3,7 +3,7 @@
 
 ---
 
-## Obiettivo
+## Obiettivi
 - Ridurre il rischio di truffe finanziarie
 - Intercettare segnali di allerta in tempo reale
 - Guidare l'utente verso azioni sicure

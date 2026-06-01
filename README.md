@@ -3,4 +3,4 @@ Presentazione slides
 
 ## Finance Defense - Alerts Anti-Scam
 
-Slide deck: `./slides-finance-defense-alerts-anti-scam.md`
+Slide deck: `slides-finance-defense-alerts-anti-scam.md`
