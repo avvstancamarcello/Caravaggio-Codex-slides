@@ -1,5 +1,5 @@
 # Finance Defense
-## Alerts anti Scam
+## Alerts Anti Scam
 
 ---
 
